@@ -8,6 +8,8 @@
 </a>
 
 
+<p align="left"> <em style="font-size: 2em;"> 새는 알에서 나오려고 투쟁한다.<br> 알은 세계이다.<br> 태어나려고 하는 자는 누구든 하나의 세계를 파괴하여야 한다. </em> </p>
+
 ## Skills
 
 <!--
